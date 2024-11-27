@@ -9,6 +9,7 @@ Add a new school with details such as name, address, latitude, and longitude.
 Retrieve all schools sorted by their geographical proximity to the user-specified latitude and longitude.
 
 **Contributing**
+
 1.Fork the repository.
 2.Create a new branch (feature/your-feature-name).
 3.Commit your changes.
